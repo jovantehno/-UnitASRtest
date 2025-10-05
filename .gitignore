@@ -13,8 +13,7 @@ ENV/
 *.elf
 *.map
 
-# Firmware files (too large for git)
-*.bin
+# Firmware files (allow firmware/*.bin in repo)
 *.tar.gz
 *.zip
 
